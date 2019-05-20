@@ -6,3 +6,6 @@ En la dinamica 1 utilizamos `Selenium` así que necesitas un driver si quieres r
 
 # Dinámica 1
 ![gif](dinamica-1/libro-d3-dinamica-1_chiquito.gif)
+
+# Dinámica 2
+![gif](dinamica-2/libro-d3-dinamica-2_chiquito.gif)
